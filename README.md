@@ -13,7 +13,7 @@
 
 ## Projects
 ### Insightful Commerce: Data-Driven Analysis using SQL and Tableau
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project Link](https://public.tableau.com/shared/QTWBW8GQ5?:display_count=n&:origin=viz_share_link)
 
 - Examined the Northwind dataset encompassing product details, customer information, and order records.
 - Identified the top-selling products and categories and customers.
