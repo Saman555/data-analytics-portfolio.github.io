@@ -4,7 +4,7 @@
 
 ## Education						       		
 - Data Analytics | Institute of Emerging Careers (_December 2024 - Present_)
-- BSc., Computer Engineering | University of Engineering & Technology, Lahore (_August 2022_)
+- BSc., Computer Engineering | University of Engineering & Technology, Lahore (_October 2018 - August 2022_)
 
 ## Work Experience
 **Internee @ Bahria University Lahore Campus (_January 2024 - March 2024_)**
@@ -14,15 +14,14 @@
 ## Projects
 ### PROJECT 1: Power BI Dashboard for Business Analysis
 
-[Project Link](https://public.tableau.com/shared/QTWBW8GQ5?:display_count=n&:origin=viz_share_link](https://app.powerbi.com/groups/me/reports/47e66ce9-3ec7-472f-9050-9d06057453cc/ReportSection?experience=power-bi)
+[Project Link](https://app.powerbi.com/groups/me/reports/47e66ce9-3ec7-472f-9050-9d06057453cc/ReportSection?experience=power-bi)
 
-### Top Product and Categories Prefrences
-This products and categories analytics dashboard reveals valuable insights to fuel strategic decision-making. Here are the key findings in three concise points:
+- **Leveraged Power BI to uncover sales opportunities:** Analyzed quarterly revenue, refund amount and gross margin. Conducted year-over-year gross margin and refund percentage comparison on product level.
+  
+- **Analyzed website traffic & identified high-converting campaigns:**  Tracked the annual conversion rate, customer acquisition and sales generated through campaigns and device types.
+  
+- **Unveiled frequently bought product bundles to boost sales:** Pin-pointed the pair of products bought together through product association metrics like Support and Lift.
 
-- **Product Preferences:** Smartphones, tablets, and laptops reign supreme in the US, while French consumers indulge in pricier beverages.
-- **Seasonal Shifts:** Condiments rule the first quarter, but beverages take the crown by the fourth, showcasing dynamic buying patterns.
-- **Category Insights:** Each category boasts unique characteristics, offering valuable insights for targeted marketing and inventory management.
-   ![Products and Categories](/Products.png)
 ### PROJECT 2: Insightful Commerce: Data-Driven Analysis using SQL and Tableau
 
 [Project Link](https://public.tableau.com/shared/QTWBW8GQ5?:display_count=n&:origin=viz_share_link)
