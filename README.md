@@ -27,7 +27,7 @@ The dataset contains sales information for a factory from 2012 – 2015 Q1. It h
     
 - **Unveiled frequently bought product bundles to boost sales:** Pin-pointed the pair of products bought together through product association metrics like Support and Lift.
   
-  ![Data Insights](/page%201.PNG)
+  ![Data Insights](/dashboard.PNG)
   
 ### PROJECT 2: Insightful Commerce: Data-Driven Analysis using SQL and Tableau
 
