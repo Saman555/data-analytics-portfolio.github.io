@@ -8,8 +8,8 @@
 
 ## Work Experience
 **Internee @ Bahria University Lahore Campus (_January 2024 - March 2024_)**
-- Designing various course and lab plans for courses like Deep Learning and Introduction to Data Science etc.
-- Working as a lab assistant for the Introduction to Data Science course of discipline BSCS semester 7.
+- Designed various course and lab plans for courses like Deep Learning and Introduction to Data Science etc.
+- Worked as a lab assistant for the Introduction to Data Science course of discipline BSCS semester 7.
 
 ## Projects
 ### PROJECT 1: Power BI Dashboard for Business Analysis
@@ -20,12 +20,12 @@
 
 The dataset contains sales information for a factory from 2012 – 2015 Q1. It has details like customer orders, which products they bought and How much customers paid. Information about website visitors, website sessions is also available. Following are insights extracted from dataset:
  ![Data Insights](/analysis.PNG)
-- **Leveraged Power BI to uncover sales opportunities:** Analyzed quarterly revenue, refund amount and gross margin. Conducted year-over-year gross margin and refund percentage comparison on product level.
-  
+- **Leveraged Power BI to uncover sales opportunities:** Analyzed quarterly revenue, refund amount and gross margin. Conducted year-over-year gross margin and refund percentage comparison on product level. 
+ 
 - **Analyzed website traffic & identified high-converting campaigns:**  Tracked the annual conversion rate, customer acquisition and sales generated through campaigns and device types.
-  
+    
 - **Unveiled frequently bought product bundles to boost sales:** Pin-pointed the pair of products bought together through product association metrics like Support and Lift.
-
+  ![Data Insights](/page%201.PNG)  
 ### PROJECT 2: Insightful Commerce: Data-Driven Analysis using SQL and Tableau
 
 [Project Link](https://public.tableau.com/shared/QTWBW8GQ5?:display_count=n&:origin=viz_share_link)
