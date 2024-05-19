@@ -16,10 +16,10 @@
 
 [Project Link](https://app.powerbi.com/groups/me/reports/47e66ce9-3ec7-472f-9050-9d06057453cc/ReportSection?experience=power-bi)
 
-- **Dataset Description:**
-- Maven Fuzzy Factory
-The dataset contains sales information for a factory from 2012 – 2015 Q1. It has details like customer orders, which products they bought and How much customers paid. Information about website visitors, website sessions is also available.
+- **Dataset Description:** Maven Fuzzy Factory
 
+The dataset contains sales information for a factory from 2012 – 2015 Q1. It has details like customer orders, which products they bought and How much customers paid. Information about website visitors, website sessions is also available.
+ ![Data Insights](/analysis.png)
 - **Leveraged Power BI to uncover sales opportunities:** Analyzed quarterly revenue, refund amount and gross margin. Conducted year-over-year gross margin and refund percentage comparison on product level.
   
 - **Analyzed website traffic & identified high-converting campaigns:**  Tracked the annual conversion rate, customer acquisition and sales generated through campaigns and device types.
