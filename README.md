@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Tableau, PowerBI, R Programming
 
 ## Education						       		
-- Data Analytics | Institute of Emerging Careers (_December 2024 - Present_)
+- Data Analytics | Institute of Emerging Careers (_December 2023 - Present_)
 - BSc., Computer Engineering | University of Engineering & Technology, Lahore (_October 2018 - August 2022_)
 
 ## Work Experience
