@@ -1,18 +1,60 @@
-# Data Analytics
+# Full Stack Developer
 
-#### Technical Skills: Python, SQL, Tableau, PowerBI, R Programming
+#### Technical Skills: Angular / SQL / C# / .Net / Power BI / HTML / CSS / OOP 
 
 ## Education						       		
-- Data Analytics | Institute of Emerging Careers (_December 2023 - Present_)
-- BSc., Computer Engineering | University of Engineering & Technology, Lahore (_October 2018 - August 2022_)
+- BSc., Computer Engineering | University of Engineering & Technology, Lahore (_October 2018 - August 2022_) [CGPA : 3.5]
 
 ## Work Experience
-**Internee @ Bahria University Lahore Campus (_January 2024 - March 2024_)**
+
+**Software Developer @ HISDU, Health & Population Department, Lahore  (_July 2024 - Present_)**
+- Built dashboards and apps using Angular, Reactive Forms, PrimeNG, and E-Charts.
+- Developed REST APIs with .NET Core and C#.
+- Created dynamic forms with validation using Angular Reactive Forms.
+- Wrote SQL using JOINs, procedures, and functions.
+- Coded and debugged in VS Code and Visual Studio.
+- Tested APIs with Postman and Swagger.
+- Used EF Core for data access and LINQ queries.
+
+**Internee @ Bahria University Lahore Campus (_January 2024 - June 2024_)**
 - Designed various course and lab plans for courses like Deep Learning and Introduction to Data Science etc.
 - Worked as a lab assistant for the Introduction to Data Science course of discipline BSCS semester 7.
 
 ## Projects
-### PROJECT 1: Power BI Dashboard for Business Analysis
+
+### PROJECT 1: Learning Management System (LMS) - Punjab Health Sector Employees 
+### Project Description & Achievements
+*Online training platform related to course management of health sector employees, including course enrollments,
+assessments and reporting.*
+- Developed data insights for LMS with server side filtering and pagination and graphical reports.
+- Generated designation, course and employee level reports with Export and Search Filtering.
+- Improved Performance of APIs by writing stored procedures for faster data querying in database.
+
+### PROJECT 2: Health Management Information System (HMIS) - Specific Modules Related Tasks 
+### Project Description & Achievements
+*This project comprises of different kinds of modules for specific department of health sector e.g. Emergency, OPD, Patient.
+ Based on micro-services architecture.*
+ - Created reactive forms for data collection using prime ng and Angular.
+ - Integrated Backend using C#. Solved daily tasks by debugging APIs, error handling.
+ - Developed Generic List UI component for displaying 100+ lists , each representing data records in 10000+ 
+ [Project Link](https://phis.pshealthpunjab.gov.pk/)
+ 
+### PROJECT 3: NAB Case Management System 
+### Project Description & Achievements
+*A case management system for investigation officer for adding a specific case and its details.*
+- Performed CRUD using Angular Reactive Forms with validations.
+- Used database first approach to perform backend and database integration.
+  
+### PROJECT 4:  Data Sync Utility System 
+### Project Description & Achievements
+*A .NET console app to fetch data from offline client servers, save it as files named after related tables, and sync it to the
+ cloud for production use.*
+ - Used try-catch exception handling techniques to find the errors occur during sync process.
+ - Maintaining log for Ids and data causing errors or exceptions.
+ - Managed details for sync including sync time, completion status, related table Ids and more.
+  
+
+### PROJECT 5: Power BI Dashboard for Business Analysis
 
 [Project Link](https://app.powerbi.com/groups/me/reports/47e66ce9-3ec7-472f-9050-9d06057453cc/ReportSection?experience=power-bi)
 
@@ -29,7 +71,7 @@ The dataset contains sales information for a factory from 2012 – 2015 Q1. It h
    
  ![Dashboard](/dashboard.PNG)
   
-### PROJECT 2: Insightful Commerce: Data-Driven Analysis using SQL and Tableau
+### PROJECT 6: Insightful Commerce: Data-Driven Analysis using SQL and Tableau
 
 [Project Link](https://public.tableau.com/shared/QTWBW8GQ5?:display_count=n&:origin=viz_share_link)
 
