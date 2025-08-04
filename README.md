@@ -31,13 +31,15 @@ assessments and reporting.*
 - Improved Performance of APIs by writing stored procedures for faster data querying in database.
 
 ### PROJECT 2: Health Management Information System (HMIS) - Specific Modules Related Tasks 
+[Project Link](https://phis.pshealthpunjab.gov.pk/)
+
 ### Project Description & Achievements
 *This project comprises of different kinds of modules for specific department of health sector e.g. Emergency, OPD, Patient.
  Based on micro-services architecture.*
  - Created reactive forms for data collection using prime ng and Angular.
  - Integrated Backend using C#. Solved daily tasks by debugging APIs, error handling.
  - Developed Generic List UI component for displaying 100+ lists , each representing data records in 10000+ 
- [Project Link](https://phis.pshealthpunjab.gov.pk/)
+ 
  
 ### PROJECT 3: NAB Case Management System 
 ### Project Description & Achievements
